@@ -123,6 +123,11 @@ PHEVs in California and BEVs in Washington dominate. There's untapped potential 
 Bridge Range Gap in BEVs
 
 PHEVs offer ~7 miles more range on average — a key metric to improve for BEVs.
+<img width="1601" height="798" alt="electricmobility" src="https://github.com/user-attachments/assets/cc8e7e2a-01f9-4fe0-9f2b-ab7ea327c379" />
+
+<img width="1622" height="782" alt="electricmobility3" src="https://github.com/user-attachments/assets/d2b210e2-33f9-4757-9d26-f54872870448" />
+
+
 
 Address 2024 PHEV Drop
 
